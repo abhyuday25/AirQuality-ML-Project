@@ -1,0 +1,12 @@
+# ML models (too large for GitHub)
+ml/models/random_forest.pkl
+
+# Optional: ignore all models
+ml/models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
