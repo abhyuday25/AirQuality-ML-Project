@@ -197,6 +197,10 @@ npm start
 
 ---
 
+## Sample Screenshot
+![UI Preview](frontend/assets/uipreview.png)
+
+
 ## 🧑‍💻 Author
 
 **Abhyuday Sinha**  
