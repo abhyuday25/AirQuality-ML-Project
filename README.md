@@ -192,7 +192,6 @@ npm start
 - AQI category classification (Good / Moderate / Poor)
 - Time-series AQI forecasting
 - Interactive map visualization
-- Cloud deployment (AWS / Azure)
 - Model monitoring and drift detection
 
 ---
